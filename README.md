@@ -1,4 +1,5 @@
-# Assignment 7 - To Do App
+# Assignment 8 - To Do App (MongoDB)
+ 
 
 This is the starter code for JavaScript Assignment 8.
 
